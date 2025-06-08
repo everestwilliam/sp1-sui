@@ -69,4 +69,4 @@ ptb.command(Command::move_call(
 
 ## Acknowledgements
 
-This crate leverages the [`sp1`](https://github.com/succinctlabs/sp1) library by Succinct Labs for the gnark-to-ark converter and [`ark-bn254`](https://github.com/arkworks-rs/algebra) for working with the BN254 elliptic curve. The repository structure was inspired by the [`sp1-solana`](https://github.com/succinctlabs/sp1-solana) verifier.
+This crate leverages the [`sp1`](https://github.com/succinctlabs/sp1) library by Succinct Labs for the gnark-to-ark converter and [`ark-bn254`](https://github.com/arkworks-rs/algebra) for working with the BN254 elliptic curve. The repository structure was inspired by the [`sp1-solana`](https://github.com/succinctlabs/sp1-solana) verifier. 
